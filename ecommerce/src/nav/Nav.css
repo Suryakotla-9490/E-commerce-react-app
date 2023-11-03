@@ -1,0 +1,25 @@
+img{
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 2rem;
+    height: 3rem;
+}
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.nav-links,li{
+    list-style: none;
+    display:flex;
+    justify-content: space-around;
+    color: black;
+}
+a{
+    text-decoration: none;
+}

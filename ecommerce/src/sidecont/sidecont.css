@@ -1,0 +1,20 @@
+button{
+    border: none;
+    color: none;
+    background-color: rgb(145, 142, 142);
+}
+.col-text{
+    color: rgb(247, 121, 4);
+    background-color: white
+}
+.bg-col{
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(247, 121, 4); ;
+}
+.bg-gray{
+    background-color: rgb(145, 142, 142);
+}
+p{
+    text-align: left;
+}
